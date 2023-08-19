@@ -1,3 +1,4 @@
+- ![zuha](zuha.png)
 - 👋 Hi, I’m @zuhaarman
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,4 +10,3 @@ zuhaarman/zuhaarman is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 More details please visit [Here](https://az.zuhaworld.com/az/)
-![zuha](zuha.png)
