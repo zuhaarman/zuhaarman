@@ -1,4 +1,4 @@
-![zuha](zuha.png)
+![Zs Z](https://avatars.githubusercontent.com/u/142185991?v=4)
 - 👋 Hi, I’m @zuhaarman
 - 👀 I’m interested in Action and Adventure Movies, Writing and Reading.
 - 🌱 I’m currently learning Programming.
